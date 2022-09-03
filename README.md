@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Custom validator example
 
+I created this as an example to go with [this blog](https://blog.cookiesworld.co.uk/git/2022/09/03/custom-html-validation-in-react.html)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
